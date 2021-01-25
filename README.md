@@ -92,6 +92,9 @@ Arabic
 English
 
 1-[https://scrimba.com/course/gtailwind](https://scrimba.com/course/gtailwind)
+2-https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
+for more tailwind content check the creator of tailwind youtube channel
+3-https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ
 
 طبعا واكيد انك مش هتدرس الاتنين مع بعض ، يعني يا هتدرس البوتستراب او هتدرس التايل ويند ، براحتك ، بس انا عن نفسي بحب تايلويند عشان حديثة اكتر وبحس انها بتديك حرية اكتر في الديزاين بتاعك
 
