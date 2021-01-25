@@ -166,6 +166,8 @@ English :
 
 [https://laracasts.com/series/learn-vue-2-step-by-step](https://laracasts.com/series/learn-vue-2-step-by-step) 
 
+for more Vue content check a website called "VueMastery" but it needs subscription
+
 ## testing Vue
 
 English:
